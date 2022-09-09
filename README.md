@@ -1,3 +1,9 @@
+# Screenshots
+
+![alt login](https://github.com/Madan019/artistsearch/blob/main/Screenshot%202022-09-09%20173137.png)
+
+![alt home](https://github.com/Madan019/artistsearch/blob/main/Screenshot%202022-09-09%20173137.png](https://github.com/Madan019/artistsearch/blob/main/Screenshot%202022-09-09%20173203.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
