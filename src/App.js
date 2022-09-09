@@ -90,6 +90,7 @@ function App () {
         <h1>Artist Search App</h1>
         {!token ? (
           <a
+            className='btn'
             href={`${AUTH_ENDPOINT}?client_id=${CLIENT_ID}&redirect_uri=${REDIRECT_URI}&response_type=${RESPONSE_TYPE}`}
           >
             Login to Spotify
